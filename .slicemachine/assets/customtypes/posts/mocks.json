@@ -1,0 +1,74 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "happily"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "amount",
+    "type": "Text"
+  },
+  "subtitle": {
+    "__TYPE__": "FieldContent",
+    "value": "heat",
+    "type": "Text"
+  },
+  "author": {
+    "__TYPE__": "FieldContent",
+    "value": "combination",
+    "type": "Text"
+  },
+  "banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0",
+      "width": 3344,
+      "height": 2509
+    },
+    "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0",
+    "width": 3344,
+    "height": 2509,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "content": {
+    "__TYPE__": "GroupContentType",
+    "value": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "heading",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "melted",
+              "type": "Text"
+            }
+          ],
+          [
+            "body",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Elit consectetur proident esse duis culpa sunt ullamco occaecat aliquip officia magna fugiat. Et sunt ullamco deserunt sunt cillum laborum enim excepteur reprehenderit duis et. Minim ea enim occaecat nisi voluptate anim Lorem adipisicing."
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

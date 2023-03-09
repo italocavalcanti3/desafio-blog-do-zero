@@ -16,3 +16,4 @@ export function getPrismicClient(config: PrismicConfig): prismic.Client {
 
   return client;
 }
+
